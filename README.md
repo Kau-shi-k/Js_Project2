@@ -1,1 +1,1 @@
-# Js_Project2
+# Color Flipper using HTML and Javascript
